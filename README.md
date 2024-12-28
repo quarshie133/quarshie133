@@ -1,16 +1,24 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Prince Ephraim QUarshie, a Software Developer who is passionate about building scalable software, developing user-friendly interfaces, and leveraging technology for social impact.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6OXi7cIix3l1a/giphy.gif" alt="wave" width="200" />
+</p>
+
+Welcome to my GitHub profile! I'm **Prince Ephraim Quarshie**, a **Software Developer** who is passionate about building scalable software, developing user-friendly interfaces, and leveraging technology for social impact.
 
 ## 🌟 What I Do
 - 🚀 **Web Development:** Skilled in building responsive and interactive web applications using modern frameworks.
 - 🧠 **Problem Solver:** Adept at tackling challenging problems with innovative solutions.
-- 🦐 **Seafood Tech Innovator:** At Oceansmall Company Limited, I'm working to transform the seafood supply chain using cutting-edge digital solutions. We aim to enhance fisher livelihoods, reduce post-harvest losses, and promote sustainability by providing access to cold storage, logistics, and markets. [Oceansmall Company Limited (https://www.theoceansmall.com/).
+- 🦐 **Seafood Tech Innovator:**  
+  At **Oceansmall Company Limited**, I'm working to transform the seafood supply chain using cutting-edge digital solutions. We aim to enhance fisher livelihoods, reduce post-harvest losses, and promote sustainability by providing access to cold storage, logistics, and markets.  
+  [Oceansmall Company Limited](https://www.theoceansmall.com/)
+
+---
 
 ## 🛠️ Technologies & Tools
 ### Languages & Frameworks
 <p align="left"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /> 
@@ -31,13 +39,28 @@ Welcome to my GitHub profile! I'm Prince Ephraim QUarshie, a Software Developer 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
 </p>
 
+---
+
 ## 📈 Current Projects
-- 🌱 Developing [Pinwheel Dashboard System](#) to monitor mobile app operations.
+- 🌱 Developing [**Pinwheel Dashboard System**](#) to monitor mobile app operations.
 - 🧩 Building responsive web designs for modern solutions.
 
+---
+
 ## 📬 Let's Connect
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Portfolio](https://my-portfolio-f3614e.netlify.app/)
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://my-portfolio-f3614e.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-24292e?logo=github&logoColor=white&style=for-the-badge" alt="Portfolio" /></a>
+</p>
+
+---
 
 ## 💡 Fun Fact
-I enjoy music and playing the guitar.
+✨ I enjoy music and playing the guitar.  
+🎸 Music inspires creativity in my projects!
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQxOYlhu/giphy.gif" alt="coding animation" width="200" />
+</p>
