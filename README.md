@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Prince Ephraim QUarshie, a Software Developer 
 ## 🌟 What I Do
 - 🚀 **Web Development:** Skilled in building responsive and interactive web applications using modern frameworks.
 - 🧠 **Problem Solver:** Adept at tackling challenging problems with innovative solutions.
-- 🦐 **Seafood Tech Innovator:** At Oceansmall Company Limited, I'm working to transform the seafood supply chain using cutting-edge digital solutions. We aim to enhance fisher livelihoods, reduce post-harvest losses, and promote sustainability by providing access to cold storage, logistics, and markets. [Oceansmall Company Limited](https://oceansmall.com).
+- 🦐 **Seafood Tech Innovator:** At Oceansmall Company Limited, I'm working to transform the seafood supply chain using cutting-edge digital solutions. We aim to enhance fisher livelihoods, reduce post-harvest losses, and promote sustainability by providing access to cold storage, logistics, and markets. [Oceansmall Company Limited (https://www.theoceansmall.com/).
 
 ## 🛠️ Technologies & Tools
 ### Languages & Frameworks
