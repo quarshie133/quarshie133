@@ -52,6 +52,4 @@ Welcome to my GitHub profile! I'm **Prince Ephraim Quarshie**, a **Software Deve
 ---
 
 ## 💡 Fun Fact
-✨ I enjoy music and playing the guitar 🎸.  
----
-
+✨ - I enjoy music and playing the guitar 🎸.
