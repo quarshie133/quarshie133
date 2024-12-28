@@ -1,9 +1,5 @@
 # Hi there 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif?cid=790b76111b1gv2gfhol207edx00ysl1ytlnr7wqkembdk6qn&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="wave" width="200" />
-</p>
-
 Welcome to my GitHub profile! I'm **Prince Ephraim Quarshie**, a **Software Developer** who is passionate about building scalable software, developing user-friendly interfaces, and leveraging technology for social impact.
 
 ## 🌟 What I Do
