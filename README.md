@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm Prince Ephraim QUarshie, a Software Developer 
 
 ## 📬 Let's Connect
 - [LinkedIn](https://linkedin.com/in/your-profile)
-- [Portfolio](www.linkedin.com/in/prince-e-quarshie)
+- [Portfolio](https://my-portfolio-f3614e.netlify.app/)
 
 ## 💡 Fun Fact
 I enjoy music and playing the guitar.
