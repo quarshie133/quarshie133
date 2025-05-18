@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/648b09db-f544-4b52-b609-2c38ad64f9eb)# Hi there 👋
+# Hi there 👋
 
 Welcome to my GitHub profile! I'm **Prince Ephraim Quarshie**, a **Software Developer** who is passionate about building scalable software, developing user-friendly interfaces, and leveraging technology for social impact.
 
