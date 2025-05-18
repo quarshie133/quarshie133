@@ -1,4 +1,4 @@
-# Hi there 👋
+![image](https://github.com/user-attachments/assets/648b09db-f544-4b52-b609-2c38ad64f9eb)# Hi there 👋
 
 Welcome to my GitHub profile! I'm **Prince Ephraim Quarshie**, a **Software Developer** who is passionate about building scalable software, developing user-friendly interfaces, and leveraging technology for social impact.
 
@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm **Prince Ephraim Quarshie**, a **Software Deve
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
 </p>
 
 ### Tools
